@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on C++ backend
+- 🌱 I’m currently learning Boost / Node.js / Web
+- 🤔 I’m looking for help with TCP / UDP / TLS protocols
+- 😄 Pronouns: She / her
+- ⚡ Fun fact: \<Genshin Impact\> is a game designed by miHoYo...
 <!--
 **fwilliamhe/fwilliamhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
