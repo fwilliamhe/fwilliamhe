@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C++ backend
-- 🌱 I’m currently learning Boost / Node.js / Web
-- 🤔 I’m looking for help with TCP / UDP / TLS protocols
+- 🔭 I’m currently working on C++ backend & algorithms research.
+- 🌱 I’m currently learning Web Dev
+- 🤔 I’m looking for help with React
 - 😄 Pronouns: She / her
 - ⚡ Fun fact: \<Genshin Impact\> is a game designed by miHoYo...
 <!--
